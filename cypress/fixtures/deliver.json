@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Weslen Furtado",
+        "cpf": "00000014242",
+        "email": "weslen@hotmail.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "32611076",
+            "street": "Rua Pyra",
+            "number": "3450",
+            "details": "Ap 123",
+            "district": "Icaivera",
+            "city_state": "Betim/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+   "cpf_inv": {
+        "name": "Weslen Dangelee",
+        "cpf": "x000000142AA",
+        "email": "weslen@hotmail.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "32611076",
+            "street": "Rua Pyra",
+            "number": "3450",
+            "details": "Ap 123",
+            "district": "Icaivera",
+            "city_state": "Betim/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Weslen Furtado",
+        "cpf": "00000014141",
+        "email": "furtado.com.br",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "32611076",
+            "street": "Rua Pyra",
+            "number": "3450",
+            "details": "Ap 123",
+            "district": "Icaivera",
+            "city_state": "Betim/MG"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
+
+}
